@@ -140,17 +140,3 @@ This endpoint verifies the OTP and logs the user in.
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize any sections or add more details that you think would be beneficial for users of your project!
-```
-
-### Enhancements Made
-- Added emojis for visual appeal.
-- Organized sections with clear headers.
-- Included a summary at the beginning.
-- Enhanced code formatting for better readability.
-- Added descriptions for each API endpoint and response types.
-
-You can further tailor this README to fit the style and content that best represent your project!
